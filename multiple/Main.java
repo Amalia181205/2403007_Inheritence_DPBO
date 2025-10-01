@@ -1,3 +1,5 @@
+package multiple;
+
 // Kelas Anak yang menggunakan komposisi
 class Mobil {
     private String merk;

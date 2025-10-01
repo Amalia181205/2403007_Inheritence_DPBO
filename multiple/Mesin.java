@@ -1,3 +1,4 @@
+package multiple;
 
 public class Mesin {
     public void hidupkanMesin() {
